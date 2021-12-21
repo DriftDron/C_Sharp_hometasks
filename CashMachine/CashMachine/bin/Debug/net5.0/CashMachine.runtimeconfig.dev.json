@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\drift\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\drift\\.nuget\\packages"
+    ]
+  }
+}

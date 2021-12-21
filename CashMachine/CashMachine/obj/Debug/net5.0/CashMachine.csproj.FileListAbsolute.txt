@@ -1,0 +1,16 @@
+C:\Users\drift\source\repos\CashMachine\CashMachine\bin\Debug\net5.0\CashMachine.exe
+C:\Users\drift\source\repos\CashMachine\CashMachine\bin\Debug\net5.0\CashMachine.deps.json
+C:\Users\drift\source\repos\CashMachine\CashMachine\bin\Debug\net5.0\CashMachine.runtimeconfig.json
+C:\Users\drift\source\repos\CashMachine\CashMachine\bin\Debug\net5.0\CashMachine.runtimeconfig.dev.json
+C:\Users\drift\source\repos\CashMachine\CashMachine\bin\Debug\net5.0\CashMachine.dll
+C:\Users\drift\source\repos\CashMachine\CashMachine\bin\Debug\net5.0\ref\CashMachine.dll
+C:\Users\drift\source\repos\CashMachine\CashMachine\bin\Debug\net5.0\CashMachine.pdb
+C:\Users\drift\source\repos\CashMachine\CashMachine\obj\Debug\net5.0\CashMachine.csproj.AssemblyReference.cache
+C:\Users\drift\source\repos\CashMachine\CashMachine\obj\Debug\net5.0\CashMachine.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\drift\source\repos\CashMachine\CashMachine\obj\Debug\net5.0\CashMachine.AssemblyInfoInputs.cache
+C:\Users\drift\source\repos\CashMachine\CashMachine\obj\Debug\net5.0\CashMachine.AssemblyInfo.cs
+C:\Users\drift\source\repos\CashMachine\CashMachine\obj\Debug\net5.0\CashMachine.csproj.CoreCompileInputs.cache
+C:\Users\drift\source\repos\CashMachine\CashMachine\obj\Debug\net5.0\CashMachine.dll
+C:\Users\drift\source\repos\CashMachine\CashMachine\obj\Debug\net5.0\ref\CashMachine.dll
+C:\Users\drift\source\repos\CashMachine\CashMachine\obj\Debug\net5.0\CashMachine.pdb
+C:\Users\drift\source\repos\CashMachine\CashMachine\obj\Debug\net5.0\CashMachine.genruntimeconfig.cache
