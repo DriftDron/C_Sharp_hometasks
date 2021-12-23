@@ -37,20 +37,54 @@ namespace CashMachine
         }
         static void Main(string[] args)
         {
-            Console.WriteLine("Enter a banknote");
-            var banknote = int.Parse(Console.ReadLine());
+            int banknote = 0;
+            while (true)
+            {
+                banknote = 0;
+                try
+                {
+                    Console.WriteLine("Enter a banknote");
+                    banknote = int.Parse(Console.ReadLine());
+                    if (banknote <= 0)
+                    {
+                        throw new Exception("Input value is negative. Try again.");
+                    }
+                    else
+                    {
+                        break;
+                    }
+                }
+                catch
+                {
+                    Console.WriteLine("Incorrect format of data input.Try again.\n ");
+                }
+            }
+
 
             Console.WriteLine("Enter nominals to change the banknote");
             SortedSet<string> nominals = new SortedSet<string>();
             string input = "";
-
+            
             while (input != "0")
             {
-                input = Console.ReadLine();
-                if (input != "0")
+                try
                 {
-                    nominals.Add(input);
+                    input = Console.ReadLine();
+                    int inputInt = Convert.ToInt32(input);
+                    if (inputInt < 0)
+                    {
+                        throw new Exception("Input value is negative. Try again.");
+                    }
+                    else if (input != "0")
+                    {
+                        nominals.Add(input);
+                    }
                 }
+                catch
+                {
+                    Console.WriteLine("Incorrect format of data input.Try again.");
+                }
+                
             }
       
             List<int> nominalsInt = new List<int>(); 
